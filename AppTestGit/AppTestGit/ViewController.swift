@@ -11,6 +11,8 @@ class ViewController: UIViewController {
 
     var matheus = "Matheus"
     
+    var victor = "Victor"
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
