@@ -8,7 +8,9 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
     let name = "Victor"
+    let error = "Error Description"
 
     override func viewDidLoad() {
         super.viewDidLoad()
